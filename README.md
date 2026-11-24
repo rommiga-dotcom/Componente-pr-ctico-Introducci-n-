@@ -3,4 +3,4 @@ Comprender los conceptos básicos del control de versiones mediante el uso de Gi
 
 Proyecto desarrollado por Pablo, Rommina, Dwayne y David.
 
-Proyecto desarrollado por Pablo, Rommina, Dwayne y David.
+
